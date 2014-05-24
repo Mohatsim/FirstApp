@@ -4,10 +4,10 @@
 <head>
 	<title>Home</title>
 </head>
-<body src=/images/1.jpg>
+<body background="../images/1.jpg">
 <div  align="center">
 <h1 >
-	Hello, Spring!  
+	Let's Walk Together- Forever!!!!
 </h1>
 
 <p >  The time on the server is ${serverTime}. </p>
