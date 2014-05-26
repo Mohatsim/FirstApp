@@ -1,10 +1,11 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Home</title>
 </head>
-<body background="../images/1.jpg">
+<body background="images/1.jpg">
 <div  align="center">
 <h1 >
         BE FIRM AND STAND<br/>
