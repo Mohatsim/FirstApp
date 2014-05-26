@@ -7,7 +7,8 @@
 <body background="../images/1.jpg">
 <div  align="center">
 <h1 >
-	Let's Walk Together- Forever!!!!
+        BE FIRM AND STAND<br/>
+        LIKE A MOUNTAIN
 </h1>
 
 <p >  The time on the server is ${serverTime}. </p>
